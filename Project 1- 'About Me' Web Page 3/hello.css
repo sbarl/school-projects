@@ -1,0 +1,74 @@
+body {
+    background-color: greenyellow;
+    font-family: Arial, sans-serif;
+    font-weight: 300;
+    margin: 100px;
+
+}
+
+.styled-link {
+    text-decoration: none;
+    color: black;
+}
+
+.styled-link:hover {
+    text-decoration: underline;
+}
+
+.secret-link {
+    text-decoration: none;
+    color: black;
+}
+
+.secret-link:hover {
+    text-decoration: underline;
+}
+
+.haiku {
+    text-align: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid;
+    padding: 3px;
+    border-spacing: 3x;
+}
+
+th,
+td {
+    width: 13%;
+    text-align: left;
+    vertical-align: top;
+}
+
+tr {
+    height: 20px;
+}
+
+.right-image {
+    float: right;
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+
+.web-class {
+    background-color: rgb(247, 156, 113);
+}
+
+.hum-class {
+    background-color: rgb(238, 253, 107);
+}
+
+.net-class {
+    background-color: rgb(119, 245, 138);
+}
+
+.soft-class {
+    background-color: rgb(114, 99, 230);
+}
+
+.ethics-class {
+    background-color: rgb(233, 114, 211);
+}
